@@ -1,0 +1,2 @@
+com/example/myloginkmm/BuildConfig.java
+ com.example.myloginkmm.BuildConfig

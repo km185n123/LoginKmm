@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "aaf4d9df5ef368ec6acdf963b4678bf4"
+build_time: [1628188782, 111844000]
+inputs:
+  "/Users/julian.lopez/AndroidStudioProjects/MyLoginKMM/iosApp/iosApp/iOSApp.swift": [1628188358, 932615151]
+  "/Users/julian.lopez/AndroidStudioProjects/MyLoginKMM/iosApp/iosApp/ContentView.swift": [1628188358, 930740354]

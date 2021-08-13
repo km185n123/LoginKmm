@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+shared in Pods
+Pods-iosApp in Pods, depends on:
+shared in Pods (explicit)

@@ -1,0 +1,62 @@
+{
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bc87bbc9b7459ea3c3b8c5a2f7392ca0ececb0a2da7ac179aef0c8dd8049fcea"
+    }
+  ],
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator14.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "i386",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/julian.lopez/Library/Developer/Xcode/DerivedData/iosApp-cshuxsxnjgvhdxasjxdozwpidhfr/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/julian.lopez/Library/Developer/Xcode/DerivedData/iosApp-cshuxsxnjgvhdxasjxdozwpidhfr/Build/Products",
+      "derivedDataPath" : "/Users/julian.lopez/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/julian.lopez/Library/Developer/Xcode/DerivedData/iosApp-cshuxsxnjgvhdxasjxdozwpidhfr/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/julian.lopez/Library/Developer/Xcode/DerivedData/iosApp-cshuxsxnjgvhdxasjxdozwpidhfr/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/julian.lopez/Library/Developer/Xcode/DerivedData/iosApp-cshuxsxnjgvhdxasjxdozwpidhfr/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "ARCHS" : "x86_64",
+          "OBJROOT" : "/Users/julian.lopez/AndroidStudioProjects/MyLoginKMM/build/ios",
+          "SDKROOT" : "iphonesimulator14.5",
+          "SYMROOT" : "/Users/julian.lopez/AndroidStudioProjects/MyLoginKMM/build/ios"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "dvtdevice-DVTiOSDeviceSimulatorPlaceholder-iphonesimulator:placeholder",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

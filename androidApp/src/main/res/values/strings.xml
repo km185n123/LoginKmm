@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txt_hint_login_user">Usuario</string>
+    <string name="txt_btn_signin">Ingresar</string>
+    <string name="txt_hint_login_password">Contraseña</string>
+    <string name="txt_error_user_empty">Debe ingresar un usuario</string>
+    <string name="txt_error_password_empty">Debe ingresar unas contraseña</string>
+    <string name="txt_btn_register">Registrar</string>
+    <string name="txt_error_user_or_password_invalid">Usuario o contraseña invalida</string>
+    <string name="uid">uid</string>
+</resources>
